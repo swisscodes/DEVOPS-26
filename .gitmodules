@@ -1,3 +1,6 @@
 [submodule "DOCKER"]
-	path = DOCKER
+	path = ALL-DOCKER/docker-deep-dive
 	url = https://github.com/swisscodes/DOCKER
+[submodule "ALL-DOCKER/psweb"]
+	path = ALL-DOCKER/psweb
+	url = https://github.com/swisscodes/psweb.git
