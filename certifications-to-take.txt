@@ -1,0 +1,3 @@
+AWS Certified Cloud Practitioner (or AWS Solutions Architect Associate)Why: You already hold the Microsoft Azure Fundamentals token! Adding a foundational AWS certification shows employers that you are completely multi-cloud fluent and can manage infrastructures across both major corporate cloud giants utilized in the Nordic region.  
+
+HashiCorp Certified: Terraform AssociateWhy: This is one of the most highly requested specialized certifications in DevOps job ads. It formally validates that you know how to automate cloud setups using code, which makes you a plug-and-play asset for a tech team on day one.

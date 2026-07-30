@@ -1,0 +1,3 @@
+[submodule "DOCKER"]
+	path = DOCKER
+	url = https://github.com/swisscodes/DOCKER
