@@ -4,3 +4,6 @@
 [submodule "ALL-DOCKER/psweb"]
 	path = ALL-DOCKER/psweb
 	url = https://github.com/swisscodes/psweb.git
+[submodule "ALL-DOCKER/ddd-book"]
+	path = ALL-DOCKER/ddd-book
+	url = https://github.com/swisscodes/ddd-book
