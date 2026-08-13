@@ -7,3 +7,6 @@
 [submodule "ALL-DOCKER/ddd-book"]
 	path = ALL-DOCKER/ddd-book
 	url = https://github.com/swisscodes/ddd-book
+[submodule "ALL-DOCKER/udemy-docker-mastery"]
+	path = ALL-DOCKER/udemy-docker-mastery
+	url = https://github.com/swisscodes/udemy-docker-mastery

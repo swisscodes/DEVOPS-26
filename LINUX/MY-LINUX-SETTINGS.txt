@@ -1,0 +1,2 @@
+You can always turn the GUI back on later with 
+sudo systemctl set-default graphical.target
